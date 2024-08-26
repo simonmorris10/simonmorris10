@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @simonmorris10
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning React and Node.js
+- 💞️ I’m looking to collaborate on open-source projects or innovative web applications
+- 📫 How to reach me: thikaa39@gmail.com or connect with me on LinkedIn
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving puzzles and coding challenges in my free time!
